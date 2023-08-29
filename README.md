@@ -16,7 +16,8 @@ Szybkie info co do implementacji
 
 ## Wgrywanie kodu do stacji
 Przy korzystaniu z flash_download_tool trzeba pamiętać o tym, że jak dostajemy 3 pliki .bin z kompliacji kodu w VScode (bootloader, partitions, firmware)  
-To trzeba wgrać w kolejności i pod adresami:
+
+To trzeba wgrać pod adresami:
 
 **0x1000** *botloader*  
 **0x8000** *partitions*  
