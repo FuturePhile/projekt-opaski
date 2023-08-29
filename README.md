@@ -15,12 +15,12 @@ Szybkie info co do implementacji
 (do znalezienia w wyszukiwarce PlatformIO)
 
 ## Wgrywanie kodu do stacji
-Przy korzystaniu z flash_download_tool trzeba pamiętać o tym, że jak dostajemy 3 pliki .bin z kompliacji kodu w VScode (bootloader, partitions, firmware)
+Przy korzystaniu z flash_download_tool trzeba pamiętać o tym, że jak dostajemy 3 pliki .bin z kompliacji kodu w VScode (bootloader, partitions, firmware)  
 To trzeba wgrać w kolejności i pod adresami:
 
-**0x1000** *botloader*
-**0x8000** *partitions*
-**0x10000** *firmware*
+**0x1000** *botloader*  
+**0x8000** *partitions*  
+**0x10000** *firmware*  
 
 (pdf z takimi informacjami też wrzucę)
 
