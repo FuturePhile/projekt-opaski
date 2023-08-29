@@ -5,6 +5,7 @@ Kod był pisany w ramach realizacji praktyk w RED-Elektronics
 Szybkie info co do implementacji
 
 Z plików podaję tylko maina oraz config do PlatformIO oraz config do TFT_eSPI bo w sumie tylko to jest przydatne.
+
 [edit: wrzucę cały folder bo raczej powinno się dać otworzyć to jako projekt w PlatformIO]
 
 Libraries:
