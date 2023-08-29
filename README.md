@@ -16,6 +16,9 @@ Z plików podaję tylko maina oraz config do PlatformIO oraz config do TFT_eSPI 
 
 Kod nie będzie już przez mnie rozwijany więc feel free to use :)
 
+## Wgrywanie kodu do stacji
 
-## A i tworząc projekt na PlatformIO korzystałem z takich ustawień płytki i frameworka:
+
+## Misc
+A i tworząc projekt na PlatformIO korzystałem z takich ustawień płytki i frameworka:
 ![image](https://github.com/FuturePhile/projekt-opaski/assets/135601063/2ea47c5a-1e41-442e-b77c-0d806f8bda28)
