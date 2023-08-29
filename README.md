@@ -8,6 +8,8 @@ Z plików podaję tylko maina oraz config do PlatformIO oraz config do TFT_eSPI 
 
 [edit: wrzucę cały folder bo raczej powinno się dać otworzyć to jako projekt w PlatformIO]
 
+
+
 Libraries:
 - TFT_eSPI ~bodmer
 - EspSoftwareSerial ~plerup
