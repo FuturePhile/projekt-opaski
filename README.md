@@ -8,9 +8,7 @@ Z plików podaję tylko maina oraz config do PlatformIO oraz config do TFT_eSPI 
 
 [edit: wrzucę cały folder bo raczej powinno się dać otworzyć to jako projekt w PlatformIO]
 
-
-
-Libraries:
+## Libraries:
 - TFT_eSPI ~bodmer
 - EspSoftwareSerial ~plerup
 
@@ -19,5 +17,5 @@ Libraries:
 Kod nie będzie już przez mnie rozwijany więc feel free to use :)
 
 
-A i tworząc projekt na PlatformIO korzystałem z takich ustawień płytki i frameworka:
+## A i tworząc projekt na PlatformIO korzystałem z takich ustawień płytki i frameworka:
 ![image](https://github.com/FuturePhile/projekt-opaski/assets/135601063/2ea47c5a-1e41-442e-b77c-0d806f8bda28)
